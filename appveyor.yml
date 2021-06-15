@@ -1,7 +1,7 @@
 
 #Test against this version of Node.js
 environment:
- marix:
+ matrix:
  # node.js
  - nodejs_version: "12"
 
